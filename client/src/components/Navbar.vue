@@ -1,11 +1,10 @@
 <script>
 import { RouterLink, RouterView } from "vue-router";
 import { mapState, mapActions } from "pinia";
-// import { useAnimeStore } from "../stores/food";
 </script>
 
 <template>
-  <div class="fixed z-10 w-full bg-gray-900">
+  <div class="fixed z-10 w-full bg-gray-900 z-30">
     <div
       class="px-4 py-2 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8"
     >

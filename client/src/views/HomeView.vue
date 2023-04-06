@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/Footer.vue'
+import HomeHero from '../components/HomeHero.vue'
 </script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="pt-32 mih-h-screen bg-sky-400">
+
+    <HomeHero />
+  </div>
 </template>
