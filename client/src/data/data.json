@@ -1,0 +1,132 @@
+{
+    "category" : [
+        {
+            "name" : "Cupcake",
+            "items" : 22,
+            "color" : "#F0FEEB",
+            "image" : "../assets/images/cupcake.png"
+            
+        },
+        {
+            "name" : "Pizza",
+            "items" : 25,
+            "color" : "#E6F3F5",
+            "image" : "../assets/images/pizza.png"
+            
+        },
+        {
+            "name" : "Kebab",
+            "items" : 12,
+            "color" : "#E6F3F5",
+            "image" : "../assets/images/kebab.png"
+        },
+        {
+            "name" : "Salmon",
+            "items" : 22,
+            "color" : "#F9EEF3",
+            "image" : "../assets/images/salmon.png"
+            
+        },
+        {
+            "name" : "Doughnut",
+            "items" : 11,
+            "color" : "#F3F7D9",
+            "image" : "../assets/images/doughnut.png"
+
+        },
+        {
+            "name" : "Cupcake",
+            "items" : 22,
+            "color" : "#F0FEEB",
+            "image" : "../assets/images/cupcake.png"
+            
+        },
+        {
+            "name" : "Pizza",
+            "items" : 25,
+            "color" : "#E6F3F5",
+            "image" : "../assets/images/pizza.png"
+            
+        },
+        {
+            "name" : "Kebab",
+            "items" : 12,
+            "color" : "#E6F3F5",
+            "image" : "../assets/images/kebab.png"
+        },
+        {
+            "name" : "Salmon",
+            "items" : 22,
+            "color" : "#F9EEF3",
+            "image" : "../assets/images/salmon.png"
+            
+        },
+        {
+            "name" : "Doughnut",
+            "items" : 11,
+            "color" : "#F3F7D9",
+            "image" : "../assets/images/doughnut.png"
+
+        }
+        
+    ],
+    "menu" : [
+        {
+            "name" : "Pizza Paperoni",
+            "image" : "../assets/images/pizza_paperoni.png",
+            "category" : "Pizza",
+            "rating" : 4,
+            "color" : "#E6F3F5"
+        },
+        {
+            "name" : "Pizza Meat",
+            "image" : "../assets/images/pizza_meat.png",
+            "category" : "Pizza",
+            "rating" : 3,
+            "color" : "#E6F3F5"
+        },
+        {
+            "name" : "Doner Kebab",
+            "image" : "../assets/images/doner_kebab.png",
+            "category" : "Kebab",
+            "rating" : 5,
+            "color" : "#E6F3F5"
+        },
+        {
+            "name" : "Salmon Roll",
+            "image" : "../assets/images/salmon_roll.png",
+            "category" : "Salmon",
+            "rating" : 4,
+            "color" : "#F9EEF3"
+        },
+        {
+            "name" : "Cupcake Choco",
+            "image" : "../assets/images/cupcake_choco.png",
+            "category" : "Cupcake",
+            "rating" : 4,
+            "color" : "#F0FEEB"
+        },
+        {
+            "name" : "Doughnut Milk",
+            "image" : "../assets/images/doughnut_milk.png",
+            "category" : "Doughnut",
+            "rating" : 5,
+            "color" : "#F3F7D9"
+        },
+        {
+            "name" : "Doughnut Unicorn",
+            "image" : "../assets/images/doughnut_unicorn.png",
+            "category" : "Doughnut",
+            "rating" : 4,
+            "color" : "#F3F7D9"
+        },
+        {
+            "name" : "Kathi Kebab",
+            "image" : "../assets/images/kathi_kebab.png",
+            "category" : "Kebab",
+            "rating" : 4,
+            "color" : "#E6F3F5"
+        }
+      
+    ]
+}
