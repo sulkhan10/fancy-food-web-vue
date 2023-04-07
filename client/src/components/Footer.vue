@@ -6,7 +6,7 @@ import { mapState, mapActions } from "pinia";
   <!-- Mobile -->
   <div>
     <nav
-      class="fixed flex justify-around bottom-0 left-0 right-0 bg-gray-50 p-2 md:hidden"
+      class="fixed flex justify-around bottom-0 left-0 right-0 bg-gray-50 p-2 md:hidden z-20"
     >
       <div class="flex flex-col justify-center">
         <svg
